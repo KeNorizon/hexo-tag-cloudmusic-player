@@ -1,0 +1,19 @@
+{
+  "name": "hexo-tag-cloudmusic-player",
+  "version": "1.0.0",
+  "description": "A hexo tag plugin to help generate cloudmusic players in hexo blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeNorizon/hexo-tag-cloudmusic-player.git"
+  },
+  "author": "KeNorizon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeNorizon/hexo-tag-cloudmusic-player/issues"
+  },
+  "homepage": "https://github.com/KeNorizon/hexo-tag-cloudmusic-player#readme"
+}
