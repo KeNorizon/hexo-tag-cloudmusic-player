@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-cloudmusic-player",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A hexo tag plugin to help inserting a cloudmusic outchain player in a blog easily.",
   "main": "index.js",
   "scripts": {

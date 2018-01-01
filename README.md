@@ -15,7 +15,7 @@ You can configure this plugin in `_config.yml`.
 cloudmusic:
   playerType: iframe # iframe or embed (default: iframe)
   playerSize: large # small or large (default: large)
-  playerWidth: 310 # -1 as default (only available for iframe player)
+  playerWidth: -1 # -1 as default (only available for iframe player)
   autoPlay: 0 # 0 or 1 (default: 0)
 ```
 
