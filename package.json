@@ -1,7 +1,7 @@
 {
   "name": "hexo-tag-cloudmusic-player",
   "version": "1.0.0",
-  "description": "A hexo tag plugin to help generate cloudmusic players in hexo blog",
+  "description": "A hexo tag plugin to help inserting a cloudmusic outchain player in a blog easily.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
